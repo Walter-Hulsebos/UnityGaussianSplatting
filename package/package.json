@@ -1,9 +1,13 @@
 {
   "author": "Aras Pranckevicius",
-  "dependencies": {},
+  "dependencies": {
+    "com.unity.mathematics": "1.2.6"
+  },
   "description": "3D Gaussian Splatting rendering and tools",
   "displayName": "Gaussian Splatting",
-  "keywords": [ "unity" ],
+  "keywords": [
+    "unity"
+  ],
   "license": "MIT",
   "name": "org.nesnausk.gaussian-splatting",
   "repository": "github:aras-p/UnityGaussianSplatting",
